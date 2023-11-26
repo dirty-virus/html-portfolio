@@ -1,0 +1,19 @@
+.mainLogo {
+	display: block;
+	margin: auto;
+	padding-top: 50px;
+}
+
+
+
+
+/* ================================================================================ */
+/*      MAIN BODY AND BACKGROUND
+/* ================================================================================ */
+body {
+	margin: 0px;
+	background-color: black;
+	background-image: linear-gradient(rgb(63,68,75), rgb(10,9,12));
+	/*height: 30px;*/
+	text-align: center;
+}
